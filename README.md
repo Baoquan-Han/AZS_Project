@@ -1,2 +1,2 @@
-# AZS_Project
-Data For iMeta AZS Project
+# AZS Project Data
+Data For the iMeta AZS Project, all data
